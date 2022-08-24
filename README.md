@@ -8,6 +8,7 @@ Training Sets:
     2. Training set of hot-encoding, adding 1 feature engineered col, transforming the ~10cols of dataset 1 to ~70 cols (improved XGBoost model by ~4%). 
 
 ML Models:
+
     1. Logistic Regression (Train Set 1):
         a. Sklearn imported logistic Regression model;
         b. Built-in Logistic Regression (using the Andrew Ng lessons as parameters) - basic structure of a sigmoid activation function, cost function and a 
